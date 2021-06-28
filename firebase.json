@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cattle-health-monitoring-iot",
+  "private_key_id": "26473b1cff2b767981ec89980ec151c602284f70",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDQOtmsXR1eUHUX\nFvaOdBMmkLFCQNJcj9fVTi6oQHGPBDTTiuadTMO5gjypSNduKPmZ/Fpkg6dosL2h\nsvx6QtMi+Dbr8ysbz7CFp9ihq+3VULnEc12pMZWSTxeqj5qvtRR+4yHs1/yCzyod\nTqd54owt1dC1gvM5Sja9SdJrlN8nW2oDNWPHyGkR3+LdwecG3K+MMXKFjRRZAUWT\nXFtYYxVy+EafJ2v29X6hDiCnDTvg/DnUStvQOkmtVrIrZWN8UYAlJhKPcDIF3RV2\nmx5R7EWKMVTb5Igr8+Lm7jeuooAMbfyUVeIXtIpucWculwJY/Zsye3Q+7Zf1aeap\njRuOXPQ3AgMBAAECggEAE+HCnegIIVS6UVmSchiYKYMAQcyxqT/cwlOkNdFtZlPm\n/VnSWiuVtpU+WIWJeE22Q2MqeFVvuxnBCXrvC3ds9HZRvCasM4wZlTFpCErDuy3p\nht3jEAAZgW5G2rS6dtNp4RGr0BLxW8YPBdxYNlWQv+Gd+27E7W/uGRW+3yHIStgN\n/s7ebg2U2vwxU+yg0f/qBXWT/rWeKEqHFBd+3ZrLm9aBXEwF1UFrV6ELm81IDvAp\nluLCLtSEWRZtPfD/4rxfNBSCt43P3MnIs/aOl+cY7fYvaptOufQoykWab6ZSWh1K\ng50kbpqCsBD7n/TBqq8yOE1NZCvFNwPWrm5RCXxoPQKBgQDwufdLlOR3nbyfqFU/\n7GflK7OXwhQAqSR2JnKudq7XFtojurKJRap2KMHb/7ICMvm+MyiCG+N+mYhwWyVv\nOZJ4AZCYerkJ0iZvYREmF8hbGBi8bBG5/kTDeF1S3AFIAlFb9rNOSVV8eWPH76P4\nEqzbd2BKnBJlzLM/vVwx43zkhQKBgQDdcQ3uwl1PIwzkVN3C6uM/xqRfwM8jcP7Q\nA4X06/IXl19cUacOs4hqeFKudKGeRUoI9EV4OGlmg5qdMYFwamtUn7gi/9mGjxT9\nW4GkV0gRRIl+fMM5pAYHLK7vNCvYbu5PnbXirBxbml4BEP2myCGfnat3zCttSLld\nVVUJ1N9giwKBgQCtH1D2DlJwpAQvXkRRAJeHfPJfxbfU8c/DGMuJJNmA3nJrF62m\ng2+gIpeovC8s3bQ2UVxkleH5/jjddO9rGiB4JcfzoO7KXVQ+7bQDjT8OJDpF6AKn\nnHGfkkSrfoV9YA1a8gTp3FuadUKJW5K0qdmezC93+N5ST/Dpeil/x3becQKBgQCo\nadox0wrKLBsa8Nxz6NaKY5YR6P7gsohpRbS0kFnfzVVOTh9i0/IVH4uqeLOOPp5O\n7xCCnUy0FbUahlMuXxFgG9UccT9L0jghdF3F0kfSMjDrzRFhHjkjbb1h2WjbQ4rl\nbEmvqjwrAt0prHVtSdognfaRtur0Q5IOxN5XCtoUfwKBgQCLzu5Wmizvefp5/w9F\nS9PELwu1aF+JGUY3G/61DqB3HW/dQXvx8JHDPzu6bZprWYTf6H+I5bRBAJ3sPkqW\neVQ9WdAu+UswKWSwX/FRMdIm6jpnZP5IhpnRJbKiFxf5lMljUq8tqMK9qPHc3rM3\nIsWYa2Um0PbHbj4WICNDPuOqcQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-waswt@cattle-health-monitoring-iot.iam.gserviceaccount.com",
+  "client_id": "113668962102443294972",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-waswt%40cattle-health-monitoring-iot.iam.gserviceaccount.com"
+}
